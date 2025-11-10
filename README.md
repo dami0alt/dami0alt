@@ -1,8 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Damian and I'm a Software Developer, from Python, C#, Java and Flutter</h2>
 
 ###
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHViMDNwazd3ZWY4MTNkaWM2NWM5ZTJzeWo4c3Vob2FvbWNvZ3RhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dami0alt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dami0alt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHViMDNwazd3ZWY4MTNkaWM2NWM5ZTJzeWo4c3Vob2FvbWNvZ3RhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif"  />
 
 ###
 
@@ -33,5 +40,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dami0alt/dami0alt/output/snake.svg" alt="Snake animation" />
 
 ###
